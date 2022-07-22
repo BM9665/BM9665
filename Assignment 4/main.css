@@ -1,0 +1,1114 @@
+.navbar1{
+    position: absolute;
+    background-color: #e6e6e6;
+    height: 65px;
+    width: 1440px;
+    border-bottom: 2px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-color:#464646;
+    border-style: solid;
+    
+    
+}
+
+.navbar-brand1{
+    background-color: #e6e6e6;
+    margin-top: 8px;
+    margin-left: 10px;
+
+}
+
+.con1{
+    background-color: #e6e6e6;
+    font-family: "New York Small", Times, serif;
+    font-size: 22px;
+    font-weight: 500;
+    padding-bottom:0px ;
+    margin-top: 12px;
+    height: auto;
+    
+}
+
+.nav-link1{
+    margin-left: 10px;
+}
+.nav-link1:hover,.active
+{
+    border-bottom: 2px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-style: solid;
+    border-color: black;
+    color:black;
+     
+    
+}
+
+.para1{
+   
+position: absolute;
+width: 750px;
+height: 162px;
+left: 310px;
+top: 156px;
+
+font-family: 'New York Extra Large';
+font-style: normal;
+font-weight: 700;
+font-size: 54px;
+line-height: 100%;
+
+text-align: center;
+
+color: #000000;
+
+
+}
+
+
+.para2{
+position: absolute;
+width: 450px;
+height: 68px;
+left: 435px;
+top: 360px;
+
+font-family: 'SF Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 170%;
+text-align: center;
+
+color: #000000;
+
+}
+
+.con2 img{
+
+position: absolute;
+width: 1440px;
+height: 800px;
+top: 500px;
+
+}
+
+
+.con5{
+    /* Line 3 */
+
+position: absolute;
+width: 625px;
+color: #000000;
+height: 0px;
+left: 330px;
+top: 1380px;
+
+border: 2px solid #000000;
+
+}
+
+
+.con5 img{
+    position: absolute;
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    top: 50px;
+}
+
+.navbar2{
+    top: 90px;
+    width:680px;
+}
+
+.navbar-brand2{
+    top: 10px;
+}
+
+.navbar-nav2{
+    display: flex;
+    flex-direction: column;
+    width:680px;
+    align-items: flex-start;
+    margin-left: 80px;
+    /* margin-top:50px; */
+       
+    
+}
+
+#n1{
+    /* Mika MAtikainen */
+
+/* position: absolute; */
+width: 200px;
+height: 10px;
+margin-top: 56px;
+
+font-family: 'SF Pro Text';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+letter-spacing: 0.05em;
+text-transform: uppercase;
+
+color: #000000;
+
+
+}
+
+#n2{
+    /* Apr 15, 2020 · 4 min read */
+
+/* position: absolute; */
+width: 250px;
+height: 10px;
+left: 472px;
+margin-top: 15px;
+
+font-family: 'SF Pro Text';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+color: #000000;
+
+}
+
+.con8{
+    position: absolute;
+    
+    left: 818px;
+    top: 1430px;
+
+    width: 140px;
+    height: 48px;
+    border: 2px;
+    border-style: solid;
+    border-color: #e6e6e6;
+    border-radius: 6%;
+    
+   
+    
+    display: flex;
+    flex-direction: row;
+    box-shadow: #000000;
+    
+}
+
+
+
+.btn0{
+    
+    height: 44px;
+    width: 70px;
+   background-color: #ffffff;
+   color: #000000;
+   font-size: 20px;
+   cursor: pointer;
+}
+
+.btn1{
+    
+   border-right: 0.5px;
+   border-style: solid;
+   border-color: #ececec;
+ 
+}
+
+.btn1 img{
+    margin-bottom: 7px;
+}
+
+.btn2{
+    border-left: 0.5px;
+   border-style: solid;
+   border-color: #ececec;
+ 
+}
+
+.btn2 img{
+    margin-bottom: 7px;
+}
+
+.para3{
+    /* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eu velit tempus erat egestas efficitur. In hac habitasse platea dictumst. Fusce a nunc eget ligula suscipit finibus. Aenean pharetra quis lacus at viverra. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam quis posuere ligula. In eu dui molestie, molestie lectus eu, semper lectus. */
+
+position: absolute;
+width: 655px;
+height: 238px;
+left: 340px;
+top:1515px;
+
+font-family: 'New York Medium';
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 170%;
+/* or 34px */
+
+color: #000000;
+
+
+}
+
+.para4{
+    /* Next on the pipeline */
+
+position: absolute;
+width: 300px;
+height: 51px;
+left: 340px;
+top: 1820px;
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 700;
+font-size: 34px;
+line-height: 160%;
+/* or 51px */
+
+color: #000000;
+
+
+}
+
+.para5{
+    /* Duis eu velit tempus erat egestas efficitur. In hac habitasse platea dictumst. Fusce a nunc eget ligula suscipit finibus. Aenean pharetra quis lacus at viverra. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi efficitur auctor metus, id mollis lorem pellentesque id. Nullam posuere maximus dui et fringilla. */
+
+position: absolute;
+width: 625px;
+height: 228px;
+left: 340px;
+top: 1895px;
+
+font-family: 'New York Medium';
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 170%;
+/* or 34px */
+
+color: #000000;
+
+
+}
+
+.con9 img{
+    /* Rectangle 8 */
+
+position: absolute;
+width: 854px;
+height: 570px;
+left: 230px;
+top: 2190px;
+
+
+}
+
+.para6{
+    /* Image caption centered this way and I’ll make this a bit longer to indicate the amount of line-height. */
+
+position: absolute;
+width: 545px;
+height: 44px;
+left: 375px;
+top: 2770px;
+
+font-family: 'SF Pro Text';
+font-style:normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 140%;
+/* or 22px */
+text-align: center;
+
+color: #000000;
+
+
+}
+
+
+.para7{
+    /* Aenean pharetra quis lacus at viverra. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam quis posuere ligula. In eu dui molestie, molestie lectus eu, semper lectus. Proin at justo lacinia, auctor nisl et, consequat ante. Donec sit amet nisi arcu. Morbi efficitur auctor metus, id mollis lorem pellentesque id. Nullam posuere maximus dui et fringilla. Nulla non volutpat leo. */
+
+position: absolute;
+width: 615px;
+height: 272px;
+left: 355px;
+top: 2860px;
+
+font-family: 'New York Medium';
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 170%;
+/* or 34px */
+
+color: #000000;
+
+
+}
+
+.para8{
+    /* A list looks like this: */
+
+position: absolute;
+width: 640px;
+height: 34px;
+left: 360px;
+top: 3200px;
+
+font-family: 'New York Medium';
+font-style: normal;
+font-weight: 500;
+font-size: 21px;
+line-height: 170%;
+/* identical to box height, or 34px */
+
+color: #000000;
+
+
+}
+
+.ul1{
+    /* First item in the list Second item in the list lorem ipsum dolor sit amet nunc felis dolor lorem ipsum sit amet Third item in the list */
+
+    list-style-image: url("img/list.png");
+    
+position: absolute;
+width: 565px;
+height: 168px;
+left: 343px;
+top: 3250px;
+
+font-family: 'New York Medium';
+font-style: normal;
+font-weight: 500;
+font-size: 21px;
+line-height: 170%;
+/* or 34px */
+
+color: #000000;
+
+/* Rectangle 34 */
+
+}
+
+.para9{
+/* Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam quis posuere ligula. */
+
+position: absolute;
+width: 640px;
+height: 68px;
+left: 360px;
+top: 3450px;
+
+font-family: 'New York Medium';
+font-style: normal;
+font-weight: 500;
+font-size: 21px;
+line-height: 170%;
+/* or 34px */
+
+color: #000000;
+
+
+}
+
+.para10{
+/* Thanks for reading, Mika */
+
+position: absolute;
+width: 600px;
+height: 68px;
+left: 360px;
+top: 3570px;
+
+font-family: 'New York Medium';
+font-style: normal;
+font-weight: 500;
+font-size: 21px;
+line-height: 170%;
+/* or 34px */
+
+color: #000000;
+
+
+}
+
+
+.con10{
+    position: absolute;
+    
+    left: 355px;
+    top: 3700px;
+
+    width: 630px;
+    height: 64px;
+    border: 2px;
+    border-style: solid;
+    border-color: #e6e6e6;
+    border-radius: 3%;
+    
+   
+    
+    display: flex;
+    flex-direction: row;
+    box-shadow: #000000;
+    
+}
+
+
+
+.bttn0{
+    
+    height: 60px;
+    width: 315px;
+   background-color: #ffffff;
+   color: #000000;
+   font-size: 20px;
+   cursor: pointer;
+}
+
+.bttn1{
+    
+   border-right: 0.5px;
+   border-style: solid;
+   border-color: #ececec;
+ 
+}
+
+.bttn1 img{
+    margin-bottom: 5px;
+}
+
+.bttn2{
+    border-left: 0.5px;
+   border-style: solid;
+   border-color: #ececec;
+ 
+}
+
+.bttn2 img{
+    margin-bottom: 5px;
+}
+
+
+.para11{
+/* Tags: product design, culture */
+
+position: absolute;
+width: 340px;
+height: 19px;
+left: 365px;
+top: 3800px;
+
+font-family: 'SF Pro Text';
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 19px;
+/* identical to box height */
+letter-spacing: 0.03em;
+
+color: #0C0C0C;
+
+
+}
+.con11{
+position: absolute;
+width: 630px;
+color: #000000;
+height: 0px;
+left: 360px;
+top: 3850px;
+
+border: 1px dashed #000000;
+}
+
+.con12{
+    position: absolute;
+    top: 3895px;
+    left: 340px;
+    
+    margin-left: 30px;
+
+    border: 1px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    border-radius: 50%;
+    
+}
+.con12 img{
+    height: 90px;
+    border:1px;
+    border-color: white;
+
+    border-style: solid;
+    border-radius: 50%;
+}
+
+
+.con13{
+
+    /* Mika Matikainen is a Design Founder & Advisor, Berlin School of Creative Leadership Executive MBA participant, Zippie advisor, Wolt co-founder, and Nordic Rose stakeholder. */
+
+position: absolute;
+width: 525px;
+height: 80px;
+left: 480px;
+top: 3895px;
+
+ font-family: 'SF Pro Text';
+font-style: normal;
+font-weight: 700;
+font-size: 14;
+line-height: 160%;
+/* or 26px */
+letter-spacing: 0.05em;
+
+
+color: #0C0C0C;
+
+
+}
+.con14{
+    position: absolute;
+width: 1440px;
+color: #000000;
+height: 0px;
+left: 0px;
+top: 4146px;
+
+border: 1px solid #000000;
+}
+
+.con15{
+    /* Group 10 */
+
+position: absolute;
+width: 82px;
+height: 64.29px;
+left: 679px;
+top: 4114px;
+
+}
+
+.con16{
+    /* What to read next */
+
+position: absolute;
+width: 450px;
+height: 53px;
+left: 500px;
+top: 4219px;
+
+font-family: 'New York Extra Large';
+font-style: normal;
+font-weight: 700;
+font-size: 44px;
+line-height: 53px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+}
+
+.con17 img{
+    /* Rectangle 4 */
+
+position: absolute;
+width: 304px;
+height: 176px;
+left: 221px;
+top: 4299px;
+
+
+}
+
+.con18 img{
+    /* Rectangle 11 */
+
+position: absolute;
+width: 304px;
+height: 176px;
+left: 553px;
+top: 4299px;
+
+
+}
+
+.con19 img{
+    /* Rectangle 10 */
+
+position: absolute;
+width: 304px;
+height: 176px;
+left: 885px;
+top: 4299px;
+
+}
+
+.con20 img{
+    /* Rectangle 37 */
+
+position: absolute;
+width: 304px;
+height: 176px;
+left: 221px;
+top: 4607px;
+
+
+}
+
+.con21 img{
+    /* Rectangle 39 */
+
+position: absolute;
+width: 304px;
+height: 176px;
+left: 553px;
+top: 4607px;
+
+}
+
+.con22 img{
+    /* Rectangle 38 */
+
+position: absolute;
+width: 304px;
+height: 176px;
+left: 885px;
+top: 4607px;
+
+
+}
+
+.para12{
+    /* Connecting artificial intelligence with digital product design */
+
+position: absolute;
+width: 288px;
+height: 78px;
+left: 229px;
+top: 4495px;
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 120%;
+/* or 26px */
+text-align: center;
+
+color: #000000;
+
+
+}
+
+.para13{
+    /* Hello world, or, in other words, why this blog exists */
+
+position: absolute;
+width: 262px;
+height: 52px;
+left: 574px;
+top: 4495px;
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 120%;
+/* or 26px */
+text-align: center;
+
+color: #000000;
+
+
+}
+
+.para14{
+    /* Here are some things you should know regarding how we work */
+
+position: absolute;
+width: 262px;
+height: 78px;
+left: 906px;
+top: 4495px;
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 120%;
+/* or 26px */
+text-align: center;
+
+color: #000000;
+
+
+}
+
+.para15{
+    /* A few words about this blog platform, Ghost, and how this site was made */
+
+position: absolute;
+width: 262px;
+height: 78px;
+left: 242px;
+top: 4803px;
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 120%;
+/* or 26px */
+text-align: center;
+
+color: #000000;
+
+
+}
+
+.para16{
+    /* Updating list of 50+ sources on distributed teams, remote work, and how to make it all work better */
+
+position: absolute;
+width: 282px;
+height: 104px;
+left: 564px;
+top: 4803px;
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 120%;
+/* or 26px */
+text-align: center;
+
+color: #000000;
+
+
+}
+
+.para17{
+    /* How modern remote working tools get along with Old School Cowboy's methods */
+
+position: absolute;
+width: 270px;
+height: 104px;
+left: 902px;
+top: 4803px;
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 120%;
+/* or 26px */
+text-align: center;
+
+color: #000000;
+
+
+}
+
+
+.con23{
+    /* Rectangle 72 */
+
+position: absolute;
+width: 640px;
+height: 12px;
+left: 400px;
+top: 5012px;
+
+background: #000000;
+
+}
+
+.con24{
+
+    /* Rectangle 73 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 640px;
+height: 313px;
+left: 400px;
+top: 5021px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+
+}
+
+.para18{
+    /* Sign up for the newsletter */
+
+position: absolute;
+width: 500px;
+height: 28px;
+left: 459px;
+top: 5083px;
+
+font-family: 'New York Extra Large';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 28px;
+/* identical to box height, or 78% */
+text-align: center;
+
+color: #090909;
+
+
+}
+
+.para19{
+    /* If you want relevant updates occasionally, sign up for the private newsletter. Your email is never shared. */
+
+position: absolute;
+width: 500px;
+height: 56px;
+left: 464px;
+top: 5129px;
+
+font-family: 'SF Pro Text';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 28px;
+/* or 140% */
+text-align: center;
+
+color: #090909;
+
+
+}
+
+.form1{
+    /* Group 48 */
+
+position: absolute;
+width: 520px;
+height: 54px;
+left: 460px;
+top: 5221px;
+
+}
+
+.inp1{
+    /* Rectangle 72 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 350px;
+height: 54px;
+left: 10px;
+top: 0px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+
+
+/* Enter your email... */
+
+font-family: 'SF Pro Text';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+color: #000000;
+
+}
+
+.inp2{
+    /* Rectangle 73 */
+
+position: absolute;
+width: 139px;
+height: 54px;
+left: 360px;
+top: 0px;
+
+background: #000000;
+
+
+/* Sign up */
+
+
+font-family: 'SF Pro Text';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.05em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+}
+
+.con26{
+    position: absolute;
+    width: 1451px;
+    height: 464px;
+    left: 0px;
+    top: 5445px;
+    
+    background-color: #000000;
+
+
+}
+
+
+.lin1{
+/* Digital product design */
+margin-right: 8px;
+margin-left: 5px;
+/* position: absolute; */
+width: 314.6px;
+height: 28px;
+
+
+/* top: 5445px; */
+text-decoration: none;
+font-family: 'SF Pro Text';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 28px;
+/* identical to box height, or 140% */
+letter-spacing: 0.1em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+}
+
+
+.lin2{
+
+    /* Remote work */
+    margin-left: 5px;
+/* position: absolute; */
+width: 165.68px;
+height: 28px;
+/* left: 325.48px;
+top: 5445px; */
+margin-right: 8px;
+
+text-decoration: none;
+font-family: 'SF Pro Text';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 28px;
+/* identical to box height, or 140% */
+letter-spacing: 0.1em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+}
+
+.con27 img{
+/* NORDIC ROSE */
+
+position: absolute;
+width: 290px;
+height: 28px;
+left: 585px;
+top: 180px;
+
+}
+
+.para20{
+    /* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eu velit tempus erat egestas efficitur. In hac habitasse platea dictumst. Fusce a nunc eget ligula suscipit finibus. */
+
+position: absolute;
+width: 555.3px;
+height: 71px;
+left: 470.37px;
+top: 225px;
+
+font-family: 'New York Small';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 140%;
+/* or 22px */
+text-align: center;
+
+color: #FFFFFF;
+
+}
+
+.lin3{
+    /* Group 41 */
+
+position: relative;
+/* width: 207.84px;
+height: 27px; */
+left: 625px;
+top: 305px;
+
+margin-right: 30px;
+
+
+font-family: 'SF Pro Text';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 170%;
+/* or 27px */
+text-decoration-line: underline;
+
+color: #FFFFFF;
+}
+
+
+.para21{
+    /* © 2012–2020 Nordic Rose Co. All rights reserved. */
+
+position: absolute;
+width: 177.02px;
+height: 34px;
+left: 643.52px;
+top: 410px;
+
+font-family: 'SF Pro Text';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 140%;
+/* or 17px */
+text-align: center;
+
+color: #FFFFFF;
+
+
+}
